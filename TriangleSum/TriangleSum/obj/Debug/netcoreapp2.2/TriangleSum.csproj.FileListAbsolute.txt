@@ -1,0 +1,11 @@
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\TriangleSum\TriangleSum\bin\Debug\netcoreapp2.2\TriangleSum.deps.json
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\TriangleSum\TriangleSum\bin\Debug\netcoreapp2.2\TriangleSum.runtimeconfig.json
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\TriangleSum\TriangleSum\bin\Debug\netcoreapp2.2\TriangleSum.runtimeconfig.dev.json
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\TriangleSum\TriangleSum\bin\Debug\netcoreapp2.2\TriangleSum.dll
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\TriangleSum\TriangleSum\bin\Debug\netcoreapp2.2\TriangleSum.pdb
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\TriangleSum\TriangleSum\obj\Debug\netcoreapp2.2\TriangleSum.csprojAssemblyReference.cache
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\TriangleSum\TriangleSum\obj\Debug\netcoreapp2.2\TriangleSum.csproj.CoreCompileInputs.cache
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\TriangleSum\TriangleSum\obj\Debug\netcoreapp2.2\TriangleSum.AssemblyInfoInputs.cache
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\TriangleSum\TriangleSum\obj\Debug\netcoreapp2.2\TriangleSum.AssemblyInfo.cs
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\TriangleSum\TriangleSum\obj\Debug\netcoreapp2.2\TriangleSum.dll
+C:\Users\Kompas\Documents\Visual Studio 2017\Projects\TriangleSum\TriangleSum\obj\Debug\netcoreapp2.2\TriangleSum.pdb
